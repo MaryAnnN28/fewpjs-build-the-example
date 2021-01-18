@@ -1,4 +1,6 @@
 // Defining text characters for the empty and full hearts for you to use later.
+let modal = document.querySelector("#modal").style.visibility = 'hidden'; 
+
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
